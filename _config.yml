@@ -1,6 +1,0 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-description: [Howdy! This is the beginning of my github based website. This will eventually turn into a fully fledged hub for all of my updates on current and
-future projects, hope to see you then!]
