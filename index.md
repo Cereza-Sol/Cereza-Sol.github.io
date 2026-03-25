@@ -2,11 +2,13 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
 # CatBurglar
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Link](.https://www.youtube.com/@RobertLizama-r7h).
+
+This is a UnrealEngine5 project utilizing the engine's visual blueprint system.
+
+* * *
 
 ## Header 2
 
@@ -24,4 +26,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Thumbnail](https://github.com/Cereza-Sol/Cereza-Sol.github.io/blob/b312ceff8edb55d9a8033af23110dca1fbfbe3ec/assets/images/CatBurglar_Thumbnail.png)
