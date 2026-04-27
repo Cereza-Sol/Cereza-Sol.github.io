@@ -2,8 +2,24 @@
 layout: default
 ---
 
-## Welcome to another page
+### Guard Startup Blueprint
 
-_yay_
+![GuardBP](https://raw.githubusercontent.com/Cereza-Sol/Cereza-Sol.github.io/refs/heads/main/assets/images/GuardBlueprint.png)
 
-[back](./)
+yay
+
+* * *
+
+### Meow Blueprint
+![MeowBP](https://raw.githubusercontent.com/Cereza-Sol/Cereza-Sol.github.io/refs/heads/main/assets/images/MeowBlueprint.png)
+
+yay
+
+* * *
+
+### Treats Rotation Fix
+![TreatsBP](https://raw.githubusercontent.com/Cereza-Sol/Cereza-Sol.github.io/refs/heads/main/assets/images/LootRotationBlueprint.png)
+
+yay
+
+[Back](./)

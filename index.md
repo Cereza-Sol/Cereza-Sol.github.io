@@ -12,6 +12,7 @@ layout: default
 This is a Unreal Engine team project utilizing the engine's native C++ visual blueprint system. I am responsible for the implementation of the guard's behavior logic, and mechanics that the player utilizes to outplay the enemies in the game.
 
 [GitHub Repository](https://github.com/Cereza-Sol/CatBurglar)
+[Blueprint Screenshots](./another-page.html)
 
 * * *
 
